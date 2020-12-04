@@ -245,7 +245,7 @@ body
 .contact
 {
     padding-top: 50px;
-    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(background3.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("background3.jpeg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;  
