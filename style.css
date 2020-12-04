@@ -9,7 +9,7 @@ body
 #header
 {
     height: 100vh;
-    url"background2.jpeg";
+    background- image: url("background2.jpeg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
