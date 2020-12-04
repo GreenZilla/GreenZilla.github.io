@@ -7,13 +7,7 @@ body
 }
 /*-------------------header CSS----------------------------*/
 #header
-{
-  height: 100vh;
-    background-image: url("background2.jpeg");
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}  
+
 .user-box
 {
     top: 50%;
